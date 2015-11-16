@@ -9,3 +9,5 @@
 **Hobby:** Ice Skating
 
 **Favorite Color:** Red
+
+**Favorite State:** California
