@@ -7,3 +7,5 @@
 **Favorite Food:** Mango
 
 **Hobby:** Ice Skating
+
+** Favorite Color:** Red
