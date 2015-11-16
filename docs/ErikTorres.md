@@ -8,4 +8,4 @@
 
 **Hobby:** Ice Skating
 
-** Favorite Color:** Red
+**Favorite Color:** Red
